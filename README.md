@@ -1,4 +1,4 @@
- ## Oie :)
+ ## Hi! I'm Lis, Software QA Intern at CESAR
  <div>
   <a href="https://github.com/lis-araujo">
 </div>
