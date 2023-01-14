@@ -8,7 +8,7 @@ Atualmente estou cursando o último período de Ciência da Computação na CESA
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisraposoaraujo/)
  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lisaraujor)
  
-![Lis GitHub stats](https://github-readme-stats.vercel.app/api?username=lisaraujor&show_icons=true&theme=dracula)
+![Lis GitHub stats](https://github-readme-stats.vercel.app/api?username=lisaraujor&show_icons=true&theme=synthwave)
 
 ![Snake animation](https://github.com/lisaraujor/lisaraujor/blob/output/github-contribution-grid-snake.svg)
  
