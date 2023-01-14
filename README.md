@@ -1,5 +1,3 @@
-<img align="center" src="https://github.com/lisaraujor/lisaraujor/blob/main/art.png"/>
-
  ## Bem vindo/a ao meu perfil, espero que goste! ✨
  
 Atualmente estou cursando o último período de Ciência da Computação na CESAR School e atuo como Engenheira de Software Jr no CESAR. Me apaixonei por programação quando entrei na faculdade e acho incrível como soluções envolvendo tecnologia podem melhorar e facilitar a vida das pessoas. Me sinto realizada em fazer parte dessa área e espero que minha jornada possa impactar positivamente de alguma forma 🤍
