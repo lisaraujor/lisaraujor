@@ -1,3 +1,4 @@
+<img align="center" src="https://github.com/lisaraujor/lisaraujor/blob/main/programming%20is%20art..jpg"/>
 
  ### ! I'm Lis, Software Engineer at CESAR ✨
  
