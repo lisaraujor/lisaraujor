@@ -1,10 +1,13 @@
- ### Hi! I'm Lis, Software Engineer at CESAR ✨
+
+ ### ! I'm Lis, Software Engineer at CESAR ✨
  
  [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lisraposoaraujo@gmail.com)
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisraposoaraujo/)
  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lisaraujor)
  
 ![Lis GitHub stats](https://github-readme-stats.vercel.app/api?username=lisaraujor&show_icons=true&theme=dracula)
+
+![Snake animation](https://github.com/lisaraujor/lisaraujor/blob/output/github-contribution-grid-snake.svg)
  
  ## Tecnologias
  <div style="display: inline_block"></br>
