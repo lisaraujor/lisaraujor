@@ -1,6 +1,8 @@
 <img align="center" src="https://github.com/lisaraujor/lisaraujor/blob/main/art.png"/>
 
- ### ! I'm Lis, Software Engineer at CESAR ✨
+ ## Bem vindo/a ao meu perfil, espero que goste! ✨
+ 
+Atualmente estou cursando o último período de Ciência da Computação na CESAR School e atuo como Engenheira de Software Jr no CESAR. Me apaixonei por programação quando entrei na faculdade e acho incrível como soluções envolvendo tecnologia podem melhorar e facilitar a vida das pessoas. Me sinto realizada em fazer parte dessa área e espero que minha jornada possa impactar positivamente de alguma forma :)
  
  [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lisraposoaraujo@gmail.com)
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisraposoaraujo/)
@@ -10,7 +12,7 @@
 
 ![Snake animation](https://github.com/lisaraujor/lisaraujor/blob/output/github-contribution-grid-snake.svg)
  
- ## Tecnologias
+ ## Algumas ferramentas que trabalho (e que já trabalhei)
  <div style="display: inline_block"></br>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
