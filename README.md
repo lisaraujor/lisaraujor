@@ -1,6 +1,6 @@
  ## Bem vindo/a ao meu perfil, espero que goste! ✨
  
-Atualmente estou cursando o último período de Ciência da Computação na CESAR School e atuo como Engenheira de Software Jr no CESAR. Me apaixonei por programação quando entrei na faculdade e acho incrível como soluções envolvendo tecnologia podem melhorar e facilitar a vida das pessoas. Me sinto realizada em fazer parte dessa área e espero que minha jornada possa impactar positivamente de alguma forma 🤍
+Sou formada em Ciência da Computação pela CESAR School e atuo como Engenheira de Software no CESAR. Me apaixonei por programação quando entrei na faculdade e acho incrível como soluções envolvendo tecnologia podem melhorar e facilitar a vida das pessoas. Me sinto realizada em fazer parte dessa área e espero que minha jornada impacte positivamente o mundo 🤍
  
  [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lisraposoaraujo@gmail.com)
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisraposoaraujo/)
