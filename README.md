@@ -1,6 +1,6 @@
 ## Welcome to my profile, I hope you enjoy it! ✨
 
-I graduated in Computer Science from CESAR School and work as a Backend Software Engineer at CESAR. I fell in love with programming when I entered college, and I find it amazing how technology-based solutions can improve and simplify people's lives. I feel fulfilled to be part of this field, and I hope that my journey positively impacts the world 🤍
+I graduated in Computer Science from CESAR School and work as a Backend Software Engineer at CESAR. I fell in love with programming when I entered college, and I find it amazing how technology-based solutions can improve and simplify people's lives. 🤍
  
  [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lisraposoaraujo@gmail.com)
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisraposoaraujo/)
