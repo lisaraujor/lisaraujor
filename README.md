@@ -1,6 +1,10 @@
 ## Welcome to my profile, I hope you enjoy it! ✨
 
-I graduated in Computer Science from CESAR School and work as a Backend Software Engineer at CESAR. I fell in love with programming when I entered college, and I find it amazing how technology-based solutions can improve and simplify people's lives. 🤍
+Graduated with honors in Computer Science from CESAR School. I work as a backend software engineer with experience in projects for big technology companies, the oil sector, and financial applications. I have expertise in Java and Spring Boot, microservices architecture, RESTful APIs, SQL and NoSQL databases, as well as cloud and CI/CD tools, and agile methodologies.
+
+I have also worked as a QA Engineer, where I developed skills related to software quality assurance, test automation, and identifying critical issues in complex systems.
+
+I am passionate about technology and innovation, always seeking new learning opportunities, and I love being part of building solutions that positively impact businesses and people's lives. 🤍
  
  [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lisraposoaraujo@gmail.com)
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisraposoaraujo/)
