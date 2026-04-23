@@ -1,6 +1,6 @@
 ## Welcome to my profile, I hope you enjoy it! ✨
 
-Graduated with honors in Computer Science from CESAR School. I work as a backend software engineer with experience in projects for big technology companies, the oil sector, and financial applications. I have expertise in Java and Spring Boot, microservices architecture, RESTful APIs, SQL and NoSQL databases, as well as cloud and CI/CD tools, and agile methodologies.
+Graduated with honors in Computer Science from CESAR School. I work as a fullstack software engineer with experience in projects for big technology companies, the oil sector, and financial applications. I have expertise in Java and Spring Boot, microservices architecture, RESTful APIs, SQL and NoSQL databases, as well as cloud and CI/CD tools, and agile methodologies.
 
 I have also worked as a QA Engineer, where I developed skills related to software quality assurance, test automation, and identifying critical issues in complex systems.
 
